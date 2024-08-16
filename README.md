@@ -1,2 +1,2 @@
 # Super-Mario-Game
-MINI SUPER MARIO game using HTML, CSS &amp; JS
+Click [here](https://surajsg23.github.io/Super-Mario-Game/) to play Game. (Desktop Version)
